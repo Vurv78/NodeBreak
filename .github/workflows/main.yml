@@ -19,9 +19,7 @@ jobs:
         with:
           java-version: 11
           
-      - name: Run gradlew
-        run: gradlew.bat
-
-      - uses: eskatos/gradle-command-action@v1
-        with:
-          arguments: shadowJar
+      - name: Gradle Setup & Build
+        run: |
+          gradlew
+          gradle shadowJar
