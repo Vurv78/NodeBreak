@@ -1,0 +1,9 @@
+# Configs
+name: NodeBreak
+author: Vurv78
+website: vurv78.github.io
+
+version: '0.1.0'
+api-version: '1.17'
+
+main: NodeBreak

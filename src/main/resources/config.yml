@@ -1,0 +1,8 @@
+# How many times to recurse through finding adjacent blocks to break when hitting a node.
+depth: 3
+
+# Tools that can be used that will cause a nodebreak
+allowed_tools: ["netherite_pickaxe"]
+
+# What gamemodes players need to be to use nodebreak
+allowed_gamemodes: ["survival", "creative"]
