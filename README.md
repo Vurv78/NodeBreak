@@ -1,6 +1,6 @@
-# NodeBreak
+# ``NodeBreak`` [![Release Shield](https://img.shields.io/github/v/release/Vurv78/NodeBreak)](https://github.com/Vurv78/NodeBreak/releases/latest) [![License](https://img.shields.io/github/license/Vurv78/NodeBreak?color=red)](https://mit-license.org) ![CI](https://github.com/Vurv78/NodeBreak/workflows/Build/badge.svg)
 Plugin that lets you break nodes more quickly.  
-Mine an ore and this will recursively mine other ores in a depth radius
+Mine an ore and this will recursively mine other ores to a defined depth
 
 ## Config
 Here's the default ``config.yml`` file that will be generated in your plugins folder
